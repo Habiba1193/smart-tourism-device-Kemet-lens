@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Kemet Lens GUI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}\\main.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "python": "${workspaceFolder}\\..\\GUI\\.conda\\python.exe"
+        },
+        {
+            "name": "Test Ollama Chatbot",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}\\test_chatbot.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "python": "${workspaceFolder}\\..\\GUI\\.conda\\python.exe"
+        }
+    ]
+}

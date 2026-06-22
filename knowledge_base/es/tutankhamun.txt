@@ -1,0 +1,97 @@
+Artifact Key: tut
+Display Name: Tutankamón
+Type: Faraón / colección funeraria real
+Recommended GUI Image Placeholder: assets/artifacts/tut.png
+
+SHORT DESCRIPTION
+Tutankamón fue un joven faraón de la dinastía XVIII del antiguo Egipto. Se hizo mundialmente famoso después del descubrimiento de su tumba casi intacta en el Valle de los Reyes en 1922. Su máscara funeraria de oro es uno de los símbolos más reconocidos del antiguo Egipto.
+
+OVERVIEW
+Tutankamón, también conocido como el rey Tut, gobernó Egipto durante el Reino Nuevo. Aunque su reinado fue corto, su tumba conservó miles de objetos reales, como ataúdes, joyas, carros, muebles, estatuas, objetos rituales y la famosa máscara de oro. Estos objetos ayudaron a los investigadores a comprender mejor las creencias del antiguo Egipto sobre la realeza, el entierro, la protección y la vida después de la muerte.
+
+HISTORICAL BACKGROUND
+Tutankamón vivió a finales de la dinastía XVIII, después de los cambios religiosos del reinado de Akenatón. Su nombre original era Tutankatón, relacionado con el dios Atón. Más tarde, su nombre cambió a Tutankamón, lo que muestra el regreso de Egipto al culto tradicional de Amón. Se convirtió en rey cuando era niño y murió joven, aproximadamente a los 18 o 19 años.
+
+ERA
+Reino Nuevo
+
+DYNASTY
+Dinastía XVIII
+
+APPROXIMATE DATE
+Aproximadamente entre las décadas de 1330 y 1320 a. C.
+
+FAMOUS FOR
+Tutankamón es famoso por su máscara funeraria de oro y por su tumba casi intacta, KV62, descubierta en el Valle de los Reyes en 1922.
+
+LOCATION
+La tumba de Tutankamón, KV62, se encuentra en el Valle de los Reyes cerca de Luxor. Muchos de sus tesoros se exhiben en el Gran Museo Egipcio.
+
+SYMBOLISM
+Los objetos de Tutankamón simbolizan la realeza divina, la protección, la resurrección y el viaje al más allá. El oro representaba el cuerpo divino y eterno del rey.
+
+WHY IT MATTERS
+Tutankamón es importante porque su tumba dio al mundo una de las colecciones funerarias reales más ricas y mejor conservadas del antiguo Egipto. Este descubrimiento ayudó a las personas modernas a comprender las creencias funerarias egipcias, el arte real y la preparación para la vida eterna.
+
+HISTORICAL TIMELINE
+- aprox. década de 1330 a. C. – Tutankamón se convierte en rey siendo niño.
+- Durante su reinado – Egipto comienza a volver al culto tradicional de Amón.
+- aprox. década de 1320 a. C. – Tutankamón muere joven y es enterrado en KV62.
+- 1922 – El equipo de Howard Carter descubre la tumba.
+- 1925 – Se revela la máscara de oro.
+- Época moderna – Tutankamón se convierte en uno de los símbolos más famosos del antiguo Egipto.
+
+DID YOU KNOW?
+Tutankamón no fue el rey más poderoso de Egipto, pero se convirtió en uno de los más famosos porque su tumba fue encontrada con muchos tesoros todavía en su interior.
+
+HIDDEN DETAIL
+La máscara de oro tiene una cobra y un buitre en la frente. Estos símbolos representan la protección del Bajo Egipto y el Alto Egipto.
+
+FUN FACTS
+- Tutankamón es conocido como el rey niño.
+- Su tumba contenía miles de objetos.
+- Su máscara de oro es uno de los artefactos más famosos del mundo.
+- Su nombre original era Tutankatón.
+- Su tumba es más pequeña que muchas tumbas reales, pero se hizo famosa porque estaba muy bien conservada.
+
+CHATBOT SUPPORT: COMMON QUESTIONS AND ANSWERS
+Aliases: Tutankamón, rey Tut, rey niño, máscara de oro, faraón egipcio.
+
+Q: ¿Quién fue Tutankamón?
+A: Tutankamón fue un joven faraón de la dinastía XVIII del antiguo Egipto. Es famoso por su tumba casi intacta y su máscara de oro.
+
+Q: ¿Por qué es famoso Tutankamón?
+A: Es famoso porque su tumba fue descubierta casi intacta en 1922 y contenía miles de tesoros reales.
+
+Q: ¿Qué es la máscara de oro de Tutankamón?
+A: Es una máscara funeraria colocada sobre la momia del rey. Representaba al rey en forma divina y lo protegía en el más allá.
+
+Q: ¿Dónde se encontró la tumba de Tutankamón?
+A: Su tumba, KV62, fue encontrada en el Valle de los Reyes cerca de Luxor.
+
+Q: ¿Quién descubrió la tumba de Tutankamón?
+A: La descubrió el equipo del arqueólogo Howard Carter en 1922.
+
+Q: ¿Por qué se le llama el rey niño?
+A: Porque se convirtió en faraón siendo muy joven, alrededor de los ocho o nueve años.
+
+Q: ¿A qué dinastía pertenecía Tutankamón?
+A: Pertenecía a la dinastía XVIII del antiguo Egipto.
+
+Q: ¿Qué significa el nombre Tutankamón?
+A: Significa “imagen viviente de Amón”.
+
+Q: ¿Cuál era su nombre original?
+A: Su nombre original era Tutankatón.
+
+Q: ¿Por qué cambió su nombre?
+A: Su nombre cambió cuando Egipto volvió al culto tradicional de Amón.
+
+Q: ¿Qué edad tenía Tutankamón cuando murió?
+A: Tenía aproximadamente 18 o 19 años.
+
+Q: ¿Qué objetos se encontraron en su tumba?
+A: Se encontraron ataúdes, joyas, carros, estatuas, muebles, armas, ropa, comida y la famosa máscara de oro.
+
+Q: ¿Por qué fue importante el descubrimiento de su tumba?
+A: Porque dio a los historiadores una visión rara del entierro de un rey egipcio y de los objetos preparados para la vida después de la muerte.

@@ -1,0 +1,97 @@
+Artifact Key: tut
+Display Name: Tutanchamun
+Type: Pharao / königliche Grabkollektion
+Recommended GUI Image Placeholder: assets/artifacts/tut.png
+
+SHORT DESCRIPTION
+Tutanchamun war ein junger Pharao der 18. Dynastie des alten Ägypten. Weltberühmt wurde er, nachdem sein nahezu unversehrtes Grab im Tal der Könige im Jahr 1922 entdeckt wurde. Seine goldene Totenmaske ist eines der bekanntesten Symbole des alten Ägypten.
+
+OVERVIEW
+Tutanchamun, auch bekannt als König Tut, regierte Ägypten während des Neuen Reiches. Obwohl seine Regierungszeit kurz war, bewahrte sein Grab Tausende königlicher Objekte, darunter Särge, Schmuck, Streitwagen, Möbel, Statuen, rituelle Gegenstände und die berühmte goldene Maske. Diese Objekte halfen Forschern, altägyptische Vorstellungen von Königtum, Bestattung, Schutz und Leben nach dem Tod besser zu verstehen.
+
+HISTORICAL BACKGROUND
+Tutanchamun lebte in der späten 18. Dynastie, nach den religiösen Veränderungen unter Echnaton. Sein ursprünglicher Name war Tutanchaton, verbunden mit dem Gott Aton. Später wurde sein Name zu Tutanchamun geändert, was die Rückkehr Ägyptens zur traditionellen Verehrung des Gottes Amun zeigt. Er wurde als Kind König und starb sehr jung, im Alter von etwa 18 oder 19 Jahren.
+
+ERA
+Neues Reich
+
+DYNASTY
+18. Dynastie
+
+APPROXIMATE DATE
+Etwa 1330er bis 1320er Jahre v. Chr.
+
+FAMOUS FOR
+Tutanchamun ist berühmt für seine goldene Totenmaske und sein nahezu unversehrtes Grab KV62, das 1922 im Tal der Könige entdeckt wurde.
+
+LOCATION
+Tutanchamuns Grab, KV62, befindet sich im Tal der Könige nahe Luxor. Viele seiner Schätze werden im Großen Ägyptischen Museum ausgestellt.
+
+SYMBOLISM
+Tutanchamuns Objekte symbolisieren göttliches Königtum, Schutz, Wiedergeburt und die Reise ins Jenseits. Gold stand für den göttlichen und ewigen Körper des Königs.
+
+WHY IT MATTERS
+Tutanchamun ist wichtig, weil sein Grab der Welt eine der reichsten und am besten erhaltenen Sammlungen altägyptischer königlicher Grabbeigaben lieferte. Die Entdeckung half modernen Menschen, ägyptische Bestattungsrituale, königliche Kunst und Vorstellungen vom ewigen Leben zu verstehen.
+
+HISTORICAL TIMELINE
+- ca. 1330er Jahre v. Chr. – Tutanchamun wird als Kind König.
+- Während seiner Regierungszeit – Ägypten kehrt schrittweise zur traditionellen Verehrung Amuns zurück.
+- ca. 1320er Jahre v. Chr. – Tutanchamun stirbt jung und wird in KV62 bestattet.
+- 1922 – Howard Carters Team entdeckt das Grab.
+- 1925 – Die goldene Maske wird freigelegt.
+- Moderne Zeit – Tutanchamun wird zu einem der bekanntesten Symbole des alten Ägypten.
+
+DID YOU KNOW?
+Tutanchamun war nicht der mächtigste König Ägyptens, wurde aber einer der berühmtesten, weil sein Grab mit vielen Schätzen erhalten blieb.
+
+HIDDEN DETAIL
+Auf der Stirn der goldenen Maske befinden sich Kobra und Geier. Diese Symbole stehen für den Schutz von Unterägypten und Oberägypten.
+
+FUN FACTS
+- Tutanchamun wird oft der „junge König“ oder „Boy King“ genannt.
+- Sein Grab enthielt Tausende von Objekten.
+- Seine goldene Maske ist eines der berühmtesten Artefakte der Welt.
+- Sein ursprünglicher Name war Tutanchaton.
+- Sein Grab ist kleiner als viele andere Königsgräber, wurde aber berühmt, weil es so gut erhalten war.
+
+CHATBOT SUPPORT: COMMON QUESTIONS AND ANSWERS
+Aliases: Tutanchamun, König Tut, junger König, goldene Maske, ägyptischer Pharao.
+
+Q: Wer war Tutanchamun?
+A: Tutanchamun war ein junger Pharao der 18. Dynastie des alten Ägypten. Er ist berühmt für sein nahezu unversehrtes Grab und seine goldene Maske.
+
+Q: Warum ist Tutanchamun berühmt?
+A: Er ist berühmt, weil sein Grab 1922 fast unversehrt entdeckt wurde und Tausende königlicher Schätze enthielt.
+
+Q: Was ist die goldene Maske von Tutanchamun?
+A: Sie ist eine Totenmaske, die über die Mumie des Königs gelegt wurde. Sie stellte den König in göttlicher Form dar und sollte ihn im Jenseits schützen.
+
+Q: Wo wurde Tutanchamuns Grab gefunden?
+A: Sein Grab KV62 wurde im Tal der Könige nahe Luxor gefunden.
+
+Q: Wer entdeckte Tutanchamuns Grab?
+A: Das Grab wurde 1922 vom Team des Archäologen Howard Carter entdeckt.
+
+Q: Warum wird er der junge König genannt?
+A: Weil er bereits als Kind, etwa mit acht oder neun Jahren, Pharao wurde.
+
+Q: Zu welcher Dynastie gehörte Tutanchamun?
+A: Er gehörte zur 18. Dynastie des alten Ägypten.
+
+Q: Was bedeutet der Name Tutanchamun?
+A: Der Name bedeutet „Lebendes Abbild des Amun“.
+
+Q: Wie lautete sein ursprünglicher Name?
+A: Sein ursprünglicher Name war Tutanchaton.
+
+Q: Warum wurde sein Name geändert?
+A: Sein Name wurde geändert, als Ägypten zur traditionellen Verehrung Amuns zurückkehrte.
+
+Q: Wie alt war Tutanchamun bei seinem Tod?
+A: Er war etwa 18 oder 19 Jahre alt.
+
+Q: Welche Objekte wurden in seinem Grab gefunden?
+A: In seinem Grab wurden Särge, Schmuck, Streitwagen, Statuen, Möbel, Waffen, Kleidung, Nahrung und die berühmte goldene Maske gefunden.
+
+Q: Warum war die Entdeckung seines Grabes wichtig?
+A: Sie gab Historikern einen seltenen Einblick in die Bestattung eines ägyptischen Königs und die Objekte, die für das Leben nach dem Tod vorbereitet wurden.

@@ -1,0 +1,47 @@
+Ask Bakkar Arabizi / Franco-Arabic Support
+=========================================
+
+The chatbot now includes a larger Arabizi normalization list in kemet_lens/chatbot.py.
+It helps Ollama understand common Egyptian Arabizi questions before sending the local artifact text file to the model.
+
+Examples it should understand:
+- meen bana el haram?
+- meen bna haram khufu?
+- emta etbana el haram?
+- el haram etbana emta?
+- fen etla2a?
+- fen etkashaf?
+- leh da mohem?
+- eh ahmeyto?
+- eh hekayto?
+- e7kili 3ano
+- et3amal men eh?
+- etsana3 men eh?
+- byermez l eh?
+- famous for eh?
+- show timeline
+- tell me fun fact
+
+Common mappings included:
+- meen/min/mn -> من
+- fen/feen/fein/fain -> أين
+- leh/leih/lei -> لماذا
+- emta/imta -> متى
+- eh/eih/ayh -> ما هو
+- ezay/ezzay/izay -> كيف
+- etbana/etbany/etbna -> بُني
+- et3amal/etsana3 -> صُنع
+- etdfen/etdafen -> دُفن
+- ektashaf/etkashaf -> اكتشف/اكتُشف
+- mohem/mohm -> مهم
+- ahmeya/ahmeyto/ahameto -> أهمية/أهميته
+- hekaya/7ekaya/story -> قصة
+- haram/ahram/pyramid/pyramids -> هرم/أهرامات
+- khufu/khoufu/cheops -> خوفو
+- khafre/kafre/chephren -> خفرع
+- menkaure/mankaure/mykerinos -> منكاورع
+- tut/tutankhamun/tutankhamon -> توت عنخ آمون
+- ramses/ramesses/ramsis -> رمسيس
+- anubis/anobis -> أنوبيس
+
+This is not keyword answering. It only clarifies the question before the local Ollama RAG prompt.

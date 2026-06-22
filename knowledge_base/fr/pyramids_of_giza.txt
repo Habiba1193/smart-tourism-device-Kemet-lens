@@ -1,0 +1,115 @@
+Artifact Key: pyramids
+Display Name: Grandes Pyramides de Gizeh
+Type: Pyramides royales / complexe funéraire / monument de l’Ancien Empire
+Recommended GUI Image Placeholder: assets/artifacts/pyramids.png
+
+SHORT DESCRIPTION
+Les Grandes Pyramides de Gizeh sont d’anciennes tombes royales construites sur le plateau de Gizeh, près du Caire. Les trois pyramides principales appartiennent aux pharaons Khéops, Khéphren et Mykérinos de la IVe dynastie. Elles font partie des monuments les plus célèbres du monde.
+
+OVERVIEW
+Les pyramides de Gizeh furent construites pendant l’Ancien Empire, surtout durant la IVe dynastie. Les rois égyptiens créèrent d’immenses monuments de pierre servant de tombes royales et de symboles de royauté éternelle. Le complexe comprend la Grande Pyramide de Khéops, la pyramide de Khéphren, la pyramide de Mykérinos, des pyramides de reines, des temples funéraires, des chaussées, des temples de la vallée, des cimetières, des zones de travailleurs et le Grand Sphinx.
+
+La Grande Pyramide de Khéops est la plus grande et la plus célèbre des trois. C’est aussi la seule des Sept Merveilles du monde antique qui soit encore largement debout aujourd’hui.
+
+HISTORICAL BACKGROUND
+Les pyramides furent créées à une époque où l’État égyptien était très organisé et capable de mobiliser main-d’œuvre qualifiée, nourriture, transport de pierres, connaissances d’ingénierie et autorité religieuse. Elles n’étaient pas des bâtiments isolés ; chaque pyramide faisait partie d’un complexe funéraire plus vaste lié à l’enterrement et à l’au-delà du roi.
+
+ERA
+Ancien Empire
+
+DYNASTY
+IVe dynastie
+
+APPROXIMATE DATE
+Les pyramides de Gizeh furent principalement construites au XXVIe siècle av. J.-C., pendant les règnes de Khéops, Khéphren et Mykérinos.
+
+THE THREE MAIN PYRAMIDS
+- Grande Pyramide de Khéops : la plus grande et la plus célèbre de Gizeh.
+- Pyramide de Khéphren : la deuxième plus grande, elle paraît parfois plus haute car elle se trouve sur un terrain plus élevé.
+- Pyramide de Mykérinos : la plus petite des trois principales, mais elle appartient à un important complexe funéraire royal.
+
+THE GREAT PYRAMID OF KHUFU
+La Grande Pyramide fut construite pour le pharaon Khéops. À l’origine, elle était recouverte de calcaire blanc lisse, ce qui la faisait briller au soleil. La plupart de ces pierres de revêtement ont ensuite été retirées.
+
+THE PYRAMID OF KHAFRE
+La pyramide de Khéphren fut construite pour le pharaon Khéphren, fils ou successeur de Khéops. Elle conserve encore quelques pierres de revêtement d’origine près du sommet.
+
+THE PYRAMID OF MENKAURE
+La pyramide de Mykérinos est la plus petite des trois principales. Elle fut construite pour le pharaon Mykérinos, un roi plus tardif de la IVe dynastie.
+
+THE GREAT SPHINX OF GIZA
+Le Grand Sphinx est une immense statue de calcaire avec un corps de lion et une tête humaine. Il est généralement compris comme une figure protectrice royale combinant intelligence humaine et force du lion.
+
+PYRAMID COMPLEX ELEMENTS
+Le complexe comprenait pyramide, temple funéraire, temple de la vallée, chaussée, pyramides de reines, fosses de barques, cimetières et zones de travailleurs.
+
+CONSTRUCTION AND ENGINEERING
+Les pyramides furent construites avec des millions de blocs de pierre, principalement du calcaire. Le granit fut utilisé dans les espaces intérieurs importants. La construction exigeait planification, relevés, carrières, transport, rampes, travailleurs qualifiés et organisation étatique forte.
+
+WHO BUILT THE PYRAMIDS?
+Elles furent construites par des équipes égyptiennes organisées, des ouvriers spécialisés, artisans, ingénieurs, tailleurs de pierre, transporteurs et équipes de soutien.
+
+INTERIOR OF THE GREAT PYRAMID
+La Grande Pyramide contient des passages et chambres internes : passage descendant, passage ascendant, Grande Galerie, chambre du roi, chambre dite de la reine, chambre souterraine et chambres de décharge.
+
+RELIGIOUS MEANING
+Les pyramides étaient profondément liées aux croyances sur la mort, la renaissance et la royauté. Le pharaon devait rejoindre les dieux et continuer à protéger l’Égypte après sa mort.
+
+SYMBOLISM
+Elles symbolisent la vie éternelle, le pouvoir royal, la royauté divine, la renaissance solaire, la stabilité, l’ordre, l’exploit technique, la force de l’État égyptien et le lien entre terre, ciel, roi et dieux.
+
+MATERIALS ASSOCIATED WITH THE PYRAMIDS
+Calcaire, granit, mortier, basalte, outils en cuivre, bois et cordes.
+
+ICONOGRAPHY AND VISUAL DETAILS
+Les détails visibles importants sont la forme triangulaire, les blocs massifs, le désert, l’alignement précis, le revêtement lisse d’origine, le Sphinx proche, les petites pyramides, les chaussées et les temples.
+
+WHY IT MATTERS
+Les Grandes Pyramides sont importantes parce qu’elles figurent parmi les monuments les plus remarquables conservés du monde antique. Elles montrent le pouvoir, l’organisation, la religion, l’ingénierie et la vision artistique de l’Égypte de l’Ancien Empire.
+
+HISTORICAL TIMELINE
+- Ancien Empire – La construction des pyramides devient une grande tradition royale.
+- IVe dynastie – Le complexe de Gizeh se développe.
+- vers le XXVIe siècle av. J.-C. – La Grande Pyramide de Khéops est construite.
+- Après Khéops – La pyramide de Khéphren est construite.
+- Fin de la IVe dynastie – La pyramide de Mykérinos est construite.
+- Époque classique – La Grande Pyramide est considérée comme une des Sept Merveilles.
+- Époque moderne – Les pyramides restent l’un des sites les plus célèbres d’Égypte.
+
+DID YOU KNOW?
+La Grande Pyramide avait autrefois une apparence très différente : elle était recouverte de calcaire blanc lisse qui reflétait la lumière du soleil.
+
+HIDDEN DETAIL
+La pyramide de Khéphren conserve encore près de son sommet quelques pierres de revêtement d’origine.
+
+FUN FACTS
+- La Grande Pyramide est la plus grande pyramide de Gizeh.
+- Les trois pyramides principales appartenaient à Khéops, Khéphren et Mykérinos.
+- La Grande Pyramide est la seule merveille antique encore largement debout.
+- Les pyramides furent construites à l’ouest du Nil.
+- Le Grand Sphinx symbolise la protection et le pouvoir royal.
+- Les scientifiques étudient encore les pyramides avec des technologies modernes.
+
+CHATBOT SUPPORT: COMMON QUESTIONS AND ANSWERS
+Aliases: Pyramides de Gizeh, Grandes Pyramides, Grande Pyramide, pyramide de Khéops, complexe pyramidal, pyramides.
+
+Q: Que sont les Grandes Pyramides de Gizeh ?
+A: Ce sont d’anciennes pyramides royales construites pour Khéops, Khéphren et Mykérinos.
+
+Q: Où se trouvent les pyramides ?
+A: Elles se trouvent sur le plateau de Gizeh près du Caire, en Égypte.
+
+Q: Qui a construit la Grande Pyramide ?
+A: Elle fut construite pour le pharaon Khéops de la IVe dynastie.
+
+Q: À quoi servaient les pyramides ?
+A: Elles étaient des tombes royales et faisaient partie de complexes funéraires pour l’au-delà.
+
+Q: Quelle est la plus grande pyramide ?
+A: La Grande Pyramide de Khéops.
+
+Q: Qui a construit les pyramides ?
+A: Des équipes organisées d’ouvriers, artisans et ingénieurs égyptiens.
+
+Q: Qu’est-ce que le Grand Sphinx ?
+A: Une énorme statue avec corps de lion et tête humaine, symbole de protection et de pouvoir royal.

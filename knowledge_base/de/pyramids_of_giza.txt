@@ -1,0 +1,115 @@
+Artifact Key: pyramids
+Display Name: Große Pyramiden von Gizeh
+Type: Königliche Pyramiden / Grabkomplex / Monument des Alten Reiches
+Recommended GUI Image Placeholder: assets/artifacts/pyramids.png
+
+SHORT DESCRIPTION
+Die Großen Pyramiden von Gizeh sind alte königliche Gräber auf dem Gizeh-Plateau nahe Kairo. Die drei Hauptpyramiden gehören zu den Pharaonen Cheops, Chephren und Mykerinos der 4. Dynastie. Sie gehören zu den berühmtesten Monumenten der Welt.
+
+OVERVIEW
+Die Pyramiden von Gizeh wurden während des Alten Reiches gebaut, besonders in der 4. Dynastie. Ägyptische Könige errichteten gewaltige Steinmonumente als königliche Gräber und Symbole ewigen Königtums. Der Komplex umfasst die Große Pyramide des Cheops, die Pyramide des Chephren, die Pyramide des Mykerinos, kleinere Königinnenpyramiden, Totentempel, Aufwege, Taltempel, Friedhöfe, Arbeiterbereiche und die Große Sphinx.
+
+Die Große Pyramide des Cheops ist die größte und berühmteste der drei. Sie ist auch das einzige der Sieben Weltwunder der Antike, das heute noch weitgehend steht.
+
+HISTORICAL BACKGROUND
+Die Pyramiden entstanden in einer Zeit, in der der ägyptische Staat stark organisiert war und qualifizierte Arbeit, Nahrung, Steintransport, Ingenieurwissen und religiöse Autorität mobilisieren konnte. Sie waren keine isolierten Gebäude; jede Pyramide gehörte zu einem größeren Grabkomplex.
+
+ERA
+Altes Reich
+
+DYNASTY
+4. Dynastie
+
+APPROXIMATE DATE
+Die Pyramiden von Gizeh wurden hauptsächlich im 26. Jahrhundert v. Chr. während der Herrschaft von Cheops, Chephren und Mykerinos gebaut.
+
+THE THREE MAIN PYRAMIDS
+- Große Pyramide des Cheops: die größte und berühmteste Pyramide von Gizeh.
+- Pyramide des Chephren: die zweitgrößte Pyramide, wirkt wegen des höheren Geländes manchmal größer.
+- Pyramide des Mykerinos: die kleinste der drei Hauptpyramiden, aber Teil eines wichtigen königlichen Grabkomplexes.
+
+THE GREAT PYRAMID OF KHUFU
+Die Große Pyramide wurde für Pharao Cheops gebaut. Ursprünglich war sie mit glatten weißen Kalksteinverkleidungen bedeckt, sodass sie in der Sonne hell leuchtete. Die meisten dieser Verkleidungssteine wurden später entfernt.
+
+THE PYRAMID OF KHAFRE
+Die Pyramide des Chephren wurde für Pharao Chephren gebaut, Sohn oder Nachfolger des Cheops. Sie bewahrt nahe der Spitze noch einige originale Verkleidungssteine.
+
+THE PYRAMID OF MENKAURE
+Die Pyramide des Mykerinos ist die kleinste der drei Hauptpyramiden. Sie wurde für Pharao Mykerinos gebaut, einen späteren König der 4. Dynastie.
+
+THE GREAT SPHINX OF GIZA
+Die Große Sphinx ist eine riesige Kalksteinstatue mit Löwenkörper und Menschenkopf. Sie wird meist als königliche Schutzfigur verstanden, die menschliche Intelligenz mit Löwenstärke verbindet.
+
+PYRAMID COMPLEX ELEMENTS
+Der Komplex umfasste Pyramide, Totentempel, Taltempel, Aufweg, Königinnenpyramiden, Bootsgruben, Friedhöfe und Arbeiterbereiche.
+
+CONSTRUCTION AND ENGINEERING
+Die Pyramiden wurden aus Millionen Steinblöcken gebaut, hauptsächlich aus Kalkstein. Granit wurde in wichtigen Innenräumen verwendet. Der Bau erforderte Planung, Vermessung, Steinbrüche, Transport, Rampensysteme, Facharbeiter und starke staatliche Organisation.
+
+WHO BUILT THE PYRAMIDS?
+Die Pyramiden wurden von organisierten ägyptischen Arbeitsgruppen, Facharbeitern, Handwerkern, Ingenieuren, Steinmetzen, Transportarbeitern und Unterstützungsteams gebaut.
+
+INTERIOR OF THE GREAT PYRAMID
+Die Große Pyramide enthält Gänge und Kammern, darunter den absteigenden Gang, den aufsteigenden Gang, die Große Galerie, die Königskammer, die sogenannte Königinnenkammer, die unterirdische Kammer und Entlastungskammern.
+
+RELIGIOUS MEANING
+Die Pyramiden waren eng mit Vorstellungen von Tod, Wiedergeburt und Königtum verbunden. Der Pharao sollte sich nach dem Tod den Göttern anschließen und Ägypten weiter schützen.
+
+SYMBOLISM
+Sie symbolisieren ewiges Leben, königliche Macht, göttliches Königtum, solare Wiedergeburt, Stabilität, Ordnung, technische Leistung, die Stärke des ägyptischen Staates und die Verbindung von Erde, Himmel, König und Göttern.
+
+MATERIALS ASSOCIATED WITH THE PYRAMIDS
+Kalkstein, Granit, Mörtel, Basalt, Kupferwerkzeuge, Holz und Seile.
+
+ICONOGRAPHY AND VISUAL DETAILS
+Wichtige Merkmale sind die dreieckige Pyramidenform, massive Steinblöcke, Wüstenlage, präzise Ausrichtung, ursprüngliche glatte Verkleidung, nahe Sphinx, kleinere Pyramiden, Aufwege und Tempel.
+
+WHY IT MATTERS
+Die Großen Pyramiden sind wichtig, weil sie zu den bedeutendsten erhaltenen Monumenten der antiken Welt gehören. Sie zeigen Macht, Organisation, Religion, Ingenieurkunst und künstlerische Vision des Alten Reiches.
+
+HISTORICAL TIMELINE
+- Altes Reich – Pyramidenbau wird eine wichtige königliche Tradition.
+- 4. Dynastie – Der Pyramidenkomplex von Gizeh entsteht.
+- ca. 26. Jahrhundert v. Chr. – Die Große Pyramide des Cheops wird gebaut.
+- Nach Cheops – Chephrens Pyramide wird gebaut.
+- Späte 4. Dynastie – Mykerinos’ Pyramide wird gebaut.
+- Klassische Zeit – Die Große Pyramide wird als Weltwunder erinnert.
+- Moderne Zeit – Die Pyramiden bleiben eine der berühmtesten Stätten Ägyptens.
+
+DID YOU KNOW?
+Die Große Pyramide sah ursprünglich ganz anders aus: Sie war mit glatten weißen Kalksteinplatten bedeckt und reflektierte das Sonnenlicht.
+
+HIDDEN DETAIL
+Die Pyramide des Chephren besitzt nahe der Spitze noch originale Verkleidungssteine.
+
+FUN FACTS
+- Die Große Pyramide ist die größte Pyramide von Gizeh.
+- Die drei Hauptpyramiden gehörten Cheops, Chephren und Mykerinos.
+- Die Große Pyramide ist das einzige antike Weltwunder, das noch weitgehend steht.
+- Die Pyramiden wurden westlich des Nils gebaut.
+- Die Große Sphinx symbolisiert Schutz und königliche Macht.
+- Wissenschaftler untersuchen die Pyramiden bis heute mit moderner Technologie.
+
+CHATBOT SUPPORT: COMMON QUESTIONS AND ANSWERS
+Aliases: Pyramiden von Gizeh, Große Pyramiden, Cheops-Pyramide, Pyramidenkomplex, Pyramiden.
+
+Q: Was sind die Großen Pyramiden von Gizeh?
+A: Es sind alte königliche Pyramiden auf dem Gizeh-Plateau für Cheops, Chephren und Mykerinos.
+
+Q: Wo liegen die Pyramiden?
+A: Sie liegen auf dem Gizeh-Plateau nahe Kairo in Ägypten.
+
+Q: Wer baute die Große Pyramide?
+A: Sie wurde für Pharao Cheops der 4. Dynastie gebaut.
+
+Q: Wozu dienten die Pyramiden?
+A: Sie waren königliche Gräber und Teile größerer Jenseitskomplexe.
+
+Q: Welche ist die größte Pyramide?
+A: Die Große Pyramide des Cheops.
+
+Q: Wer baute die Pyramiden?
+A: Organisierte ägyptische Arbeiter, Handwerker und Ingenieure.
+
+Q: Was ist die Große Sphinx?
+A: Eine riesige Statue mit Löwenkörper und Menschenkopf, Symbol für Schutz und königliche Macht.

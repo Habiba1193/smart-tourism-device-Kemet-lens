@@ -1,0 +1,123 @@
+Artifact Key: anubis
+Display Name: Anubis
+Type: Gott / funeräres Statuenthema
+Recommended GUI Image Placeholder: assets/artifacts/anubis.png
+
+SHORT DESCRIPTION
+Anubis war ein altägyptischer Gott, der mit Mumifizierung, Bestattungsritualen, Schutz der Toten, Grabwache und der Reise ins Jenseits verbunden war. Er wird meist als schwarzer Schakal oder als Mann mit Schakalkopf dargestellt.
+
+OVERVIEW
+Anubis war eine der wichtigsten Totengottheiten des alten Ägypten. Sein Bild erscheint in Gräbern, Totentexten, Grabbeigaben, Statuen und Szenen, die mit Tod und Jenseits verbunden sind. Die Ägypter glaubten, dass Anubis die Toten schützte, Gräber bewachte, Seelen führte und bei der Mumifizierung half.
+
+HISTORICAL BACKGROUND
+In der frühen ägyptischen Religion hatte Anubis eine wichtige Rolle als Herr und Beschützer der Toten. Während der Frühzeit und des Alten Reiches war er besonders wichtig im Totenglauben. Später wurde Osiris als Herrscher des Jenseits zentraler, doch Anubis blieb als Gott der Einbalsamierung, des Grabschutze und der Gerichtsszenen wesentlich.
+
+ERA
+Altägyptische Religion über viele Perioden
+
+DYNASTY
+Nicht auf eine Dynastie beschränkt; Anubis wurde während der gesamten altägyptischen Geschichte verehrt.
+
+APPROXIMATE DATE
+Anubis erscheint bereits in frühen Perioden der ägyptischen Religion und blieb in späteren Zeiten wichtig.
+
+FAMOUS FOR
+Anubis ist berühmt für seine schwarze schakalköpfige Form, Mumifizierung, Einbalsamierung, den Schutz von Gräbern und Mumien, die Führung der Seelen, das Wiegen des Herzens und die Bewachung der Nekropole.
+
+LOCATION
+Bilder und Statuen des Anubis findet man in Gräbern, Tempeln, funerären Objekten, Bestattungsszenen und Museumssammlungen.
+
+IDENTITY AND ROLES
+Anubis hatte mehrere wichtige Rollen:
+- Gott der Mumifizierung.
+- Beschützer der Gräber.
+- Führer der Seelen.
+- Helfer beim Totengericht.
+- Wächter der Nekropole.
+- Totengottheit.
+
+EPITHETS AND TITLES
+Zu seinen Titeln gehören Herr des Heiligen Landes, Der auf seinem Berg ist, Erster der Westlichen und Der im Ort der Einbalsamierung ist.
+
+MYTHIC CONTEXT AND FAMILY
+Anubis’ familiärer Hintergrund variiert je nach Mythos und Zeit. In einigen Traditionen ist er der Sohn von Nephthys und Osiris; in anderen kann er mit Re verbunden sein. Seine weibliche Entsprechung ist Anput, und seine Tochter wird oft Kebechet genannt.
+
+ICONOGRAPHY AND APPEARANCE
+Anubis erscheint meist als schwarzer Schakal oder als Mann mit schwarzem Schakalkopf. Die schwarze Farbe ist symbolisch und steht für mumifiziertes Fleisch, den fruchtbaren schwarzen Nilschlamm, Regeneration und Wiedergeburt.
+
+WHY ANUBIS HAS A JACKAL HEAD
+Schakale und wilde Hunde wurden oft nahe Wüstenrändern und Friedhöfen gesehen. Die Ägypter verwandelten diese Verbindung in ein Schutzsymbol, sodass Anubis zum Wächter der Gräber wurde.
+
+WHY ANUBIS IS BLACK
+Anubis ist schwarz, weil Schwarz Bewahrung, fruchtbaren Boden, Regeneration, Wiedergeburt und Schutz im Tod symbolisierte. Es bedeutet nicht Böses.
+
+RITUAL FUNCTIONS
+Anubis war mit Mumifizierung, Einbalsamierung, Schutz des Körpers, dem Wiegen des Herzens und der Führung der Seelen ins Jenseits verbunden.
+
+THE WEIGHING OF THE HEART SCENE
+In dieser Szene führt Anubis den Verstorbenen und wiegt sein Herz gegen die Feder der Ma’at, das Symbol von Wahrheit und Gleichgewicht. Thot schreibt das Ergebnis auf, Osiris leitet das Gericht, und Ammit verschlingt das unwürdige Herz.
+
+CULT AND WORSHIP
+Anubis wurde in Ägypten weit verbreitet verehrt. Er war mit Nekropolen und Bestattungszentren verbunden, und sein Schutz wurde durch Schreine, Grabsiegel, Statuen und funeräre Bilder angerufen.
+
+ANUBIS FUNERARY STATUE THEME
+Wenn das Gerät eine Anubis-Statue erkennt, ist die wichtigste Bedeutung meist Grabschutze. Häufige Formen sind der liegende Schakal auf einem Schrein, der schakalköpfige Mann, eine stehende Figur oder eine sitzende beziehungsweise schreitende Figur.
+
+VISUAL DETAILS TO NOTICE
+Wichtige Merkmale sind schwarzer Schakalkopf oder Körper, lange spitze Ohren, liegende Haltung, schreinartige Basis, Anch, Geißel, Schakalmaske und Grab- oder Mumienbilder.
+
+MATERIALS ASSOCIATED WITH ANUBIS ARTIFACTS
+Anubis-Statuen und Bilder können aus Holz, Gips, Farbe, Blattgold, Stein, Kalkstein, Granit und Einlagen bestehen.
+
+PLACEMENT AND ORIENTATION
+Anubis-Figuren konnten an Grabeingängen, Schwellen, auf Schreinen, nahe Sarkophagen, nahe Kanopen, in Grabkammern und auf Grabwänden platziert werden.
+
+SYMBOLISM
+Anubis symbolisiert Mumifizierung, Schutz, Grabwache, Tod und Übergang, Gericht, sicheren Weg ins Jenseits, Regeneration, Wiedergeburt, Bewahrung des Körpers und göttliche Führung.
+
+WHY IT MATTERS
+Anubis ist wichtig, weil er die altägyptischen Vorstellungen von Tod und Jenseits erklärt. Seine Rolle zeigt, dass Tod als geführte Reise verstanden wurde, die Rituale, Schutz, Gericht und göttliche Hilfe benötigte.
+
+HISTORICAL TIMELINE
+- Frühe ägyptische Geschichte – Anubis erscheint als wichtige Totengottheit.
+- Altes Reich – Anubis hat eine bedeutende Rolle bei den Toten.
+- Mittleres Reich – Osiris wird zentraler, aber Anubis bleibt wichtig.
+- Neues Reich – Anubis erscheint in Grabmalereien, Totentexten und Grabbeigaben.
+- Grab Tutanchamuns – Der Anubis-Schrein zeigt ihn als schützenden Schakal.
+- Spätere Perioden – Anubis bleibt Symbol für Mumifizierung und Jenseitsschutz.
+- Moderne Zeit – Anubis wird einer der bekanntesten ägyptischen Götter.
+
+DID YOU KNOW?
+Anubis wird oft mit Schakalkopf dargestellt, weil Schakale mit Friedhöfen und Wüstengebieten verbunden waren.
+
+HIDDEN DETAIL
+Beim Wiegen des Herzens wird Anubis oft gezeigt, wie er das Herz des Verstorbenen gegen die Feder der Ma’at wiegt oder überwacht.
+
+FUN FACTS
+- Anubis ist einer der bekanntesten ägyptischen Götter.
+- Er erscheint als schwarzer Schakal oder schakalköpfiger Mann.
+- Seine schwarze Farbe symbolisiert Wiedergeburt und Bewahrung.
+- Er war mit Mumifizierung und Grabschutze verbunden.
+- Priester konnten Schakalmasken tragen.
+- Er erscheint im berühmten Wiegen des Herzens.
+
+CHATBOT SUPPORT: COMMON QUESTIONS AND ANSWERS
+Aliases: Anubis, Schakalgott, Gott der Mumifizierung, Grabwächter, Gott der Einbalsamierung.
+
+Q: Wer ist Anubis?
+A: Anubis ist der altägyptische Gott der Mumifizierung, des Grabschutze und der Führung der Toten.
+
+Q: Warum hat Anubis einen Schakalkopf?
+A: Schakale wurden mit Friedhöfen und Wüstenrändern verbunden, und die Ägypter machten daraus ein Schutzsymbol.
+
+Q: Was symbolisiert Anubis?
+A: Er symbolisiert Mumifizierung, Schutz, Wiedergeburt, Gericht und die Reise ins Jenseits.
+
+Q: Warum ist Anubis schwarz?
+A: Schwarz symbolisiert Bewahrung, fruchtbaren Nilschlamm, Regeneration und Wiedergeburt, nicht Böses.
+
+Q: Was ist das Wiegen des Herzens?
+A: Es ist eine Gerichtsszene, bei der das Herz des Verstorbenen gegen die Feder der Ma’at gewogen wird.
+
+Q: Warum ist Anubis wichtig?
+A: Er steht für Schutz, Vorbereitung und Gericht auf dem Weg der Seele ins Jenseits.

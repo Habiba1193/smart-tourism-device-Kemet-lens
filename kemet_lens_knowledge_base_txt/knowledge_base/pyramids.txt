@@ -1,0 +1,63 @@
+Artifact Key: pyramids
+Display Name: Pyramids of Giza
+Type: Monument / architectural landmark theme
+Recommended GUI Image Placeholder: assets/artifacts/pyramids.png
+
+SHORT DESCRIPTION
+The Pyramids of Giza are ancient Egyptian royal tombs built during the Old Kingdom for the pharaohs Khufu, Khafre, and Menkaure. They are among the most famous monuments in the world.
+
+OVERVIEW
+The Giza pyramid complex is one of ancient Egypt’s greatest architectural achievements. The three main pyramids were built for Khufu, Khafre, and Menkaure during the 4th Dynasty. The largest is the Great Pyramid of Khufu. The complex also includes temples, causeways, smaller pyramids, cemeteries, and the Great Sphinx nearby. The pyramids show the power of the pharaoh, the organization of labor, and the importance of the afterlife in ancient Egyptian belief.
+
+HISTORICAL BACKGROUND
+The pyramids were built during the Old Kingdom, a period when royal pyramid construction reached a high level of organization and engineering. They served as royal tombs and were part of larger funerary complexes. The pyramid shape may have been connected with the sun’s rays, creation beliefs, and the king’s journey to the afterlife. Building the pyramids required skilled planning, quarrying, transport, and construction.
+
+ERA
+Old Kingdom
+
+DYNASTY
+4th Dynasty
+
+APPROXIMATE DATE
+Around the 26th to 25th centuries BC
+
+MATERIALS ASSOCIATED WITH ARTIFACTS
+Mainly limestone blocks, with granite used in some internal chambers and structural features. The pyramids originally had smoother outer casing stones.
+
+FAMOUS FOR
+The Pyramids of Giza are famous for their size, precision, age, royal purpose, and status as iconic symbols of ancient Egypt.
+
+LOCATION
+Giza Plateau, near Cairo, Egypt.
+
+SYMBOLISM
+The pyramids symbolize royal power, divine kingship, the afterlife, solar beliefs, and the ability of the Egyptian state to organize large-scale construction. Their shape may suggest a connection between the king, the sky, and the sun.
+
+WHY IT MATTERS
+The Pyramids of Giza matter because they are among the most important surviving monuments from the ancient world. They reveal ancient Egyptian engineering skill, religious beliefs, royal ideology, and social organization. They also remain a major symbol of Egypt’s cultural heritage.
+
+HISTORICAL TIMELINE
+- 4th Dynasty – The pyramids of Khufu, Khafre, and Menkaure are built.
+- Old Kingdom – The Giza Plateau becomes a major royal burial landscape.
+- Ancient and medieval periods – The pyramids remain visible landmarks and attract visitors.
+- Modern era – The pyramids become global symbols of ancient Egypt and world heritage.
+
+DID YOU KNOW?
+The Great Pyramid of Khufu was originally taller than it appears today because it once had outer casing stones that made its surface smoother.
+
+HIDDEN DETAIL
+The pyramids were not isolated structures. They were part of larger complexes that included temples, causeways, smaller pyramids, burial areas, and ritual spaces for offerings to the deceased king.
+
+FUN FACTS
+- The three main pyramids belong to Khufu, Khafre, and Menkaure.
+- The Great Pyramid is the largest of the three.
+- The Giza complex is closely associated with the Great Sphinx.
+
+COMMON USER QUESTIONS THIS FILE CAN ANSWER
+- What are the Pyramids of Giza?
+- Who built the pyramids?
+- Why were the pyramids built?
+- Where are the pyramids located?
+- What dynasty are the pyramids from?
+- What materials were used?
+- Why are the pyramids important?

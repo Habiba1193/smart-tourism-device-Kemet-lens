@@ -1,0 +1,97 @@
+Artifact Key: tut
+Display Name: Toutânkhamon
+Type: Pharaon / collection funéraire royale
+Recommended GUI Image Placeholder: assets/artifacts/tut.png
+
+SHORT DESCRIPTION
+Toutânkhamon était un jeune pharaon de la XVIIIe dynastie de l’Égypte ancienne. Il est devenu mondialement célèbre après la découverte de sa tombe presque intacte dans la Vallée des Rois en 1922. Son masque funéraire en or est l’un des symboles les plus reconnaissables de l’Égypte ancienne.
+
+OVERVIEW
+Toutânkhamon, aussi appelé le roi Tout, a régné sur l’Égypte pendant le Nouvel Empire. Même si son règne fut court, sa tombe a conservé des milliers d’objets royaux, comme des cercueils, des bijoux, des chars, des meubles, des statues, des objets rituels et le célèbre masque d’or. Ces objets ont aidé les chercheurs à mieux comprendre les croyances égyptiennes anciennes sur la royauté, l’enterrement, la protection et la vie après la mort.
+
+HISTORICAL BACKGROUND
+Toutânkhamon a vécu à la fin de la XVIIIe dynastie, après les changements religieux du règne d’Akhenaton. Son nom d’origine était Toutânkhaton, lié au dieu Aton. Plus tard, son nom fut changé en Toutânkhamon, ce qui montre le retour de l’Égypte au culte traditionnel d’Amon. Il est devenu roi alors qu’il était encore enfant et il est mort jeune, vers l’âge de 18 ou 19 ans.
+
+ERA
+Nouvel Empire
+
+DYNASTY
+XVIIIe dynastie
+
+APPROXIMATE DATE
+Environ des années 1330 aux années 1320 av. J.-C.
+
+FAMOUS FOR
+Toutânkhamon est célèbre pour son masque funéraire en or et sa tombe presque intacte, KV62, découverte dans la Vallée des Rois en 1922.
+
+LOCATION
+La tombe de Toutânkhamon, KV62, se trouve dans la Vallée des Rois près de Louxor. Beaucoup de ses trésors sont exposés au Grand Musée Égyptien.
+
+SYMBOLISM
+Les objets de Toutânkhamon symbolisent la royauté divine, la protection, la résurrection et le voyage vers l’au-delà. L’or représentait le corps divin et éternel du roi.
+
+WHY IT MATTERS
+Toutânkhamon est important parce que sa tombe a offert au monde l’une des collections funéraires royales les plus riches et les mieux conservées de l’Égypte ancienne. Cette découverte a aidé les gens modernes à comprendre les croyances funéraires égyptiennes, l’art royal et la préparation à la vie éternelle.
+
+HISTORICAL TIMELINE
+- vers les années 1330 av. J.-C. – Toutânkhamon devient roi alors qu’il est enfant.
+- Pendant son règne – L’Égypte revient progressivement au culte traditionnel d’Amon.
+- vers les années 1320 av. J.-C. – Toutânkhamon meurt jeune et est enterré dans KV62.
+- 1922 – L’équipe de Howard Carter découvre la tombe.
+- 1925 – Le masque d’or est révélé.
+- Époque moderne – Toutânkhamon devient l’un des symboles les plus célèbres de l’Égypte ancienne.
+
+DID YOU KNOW?
+Toutânkhamon n’était pas le roi le plus puissant d’Égypte, mais il est devenu l’un des plus célèbres parce que sa tombe a été trouvée avec de nombreux trésors encore à l’intérieur.
+
+HIDDEN DETAIL
+Le masque d’or porte un cobra et un vautour sur le front. Ces symboles représentent la protection de la Basse-Égypte et de la Haute-Égypte.
+
+FUN FACTS
+- Toutânkhamon est souvent appelé le roi enfant.
+- Sa tombe contenait des milliers d’objets.
+- Son masque d’or est l’un des artefacts les plus célèbres du monde.
+- Son nom d’origine était Toutânkhaton.
+- Sa tombe est plus petite que beaucoup d’autres tombes royales, mais elle est devenue célèbre parce qu’elle était très bien conservée.
+
+CHATBOT SUPPORT: COMMON QUESTIONS AND ANSWERS
+Aliases: Toutânkhamon, roi Tout, roi enfant, masque d’or, pharaon égyptien.
+
+Q: Qui était Toutânkhamon ?
+A: Toutânkhamon était un jeune pharaon de la XVIIIe dynastie de l’Égypte ancienne. Il est célèbre pour sa tombe presque intacte et son masque d’or.
+
+Q: Pourquoi Toutânkhamon est-il célèbre ?
+A: Il est célèbre parce que sa tombe a été découverte presque intacte en 1922 et contenait des milliers de trésors royaux.
+
+Q: Qu’est-ce que le masque d’or de Toutânkhamon ?
+A: C’est un masque funéraire placé sur la momie du roi. Il représentait le roi sous une forme divine et le protégeait dans l’au-delà.
+
+Q: Où la tombe de Toutânkhamon a-t-elle été trouvée ?
+A: Sa tombe, KV62, a été trouvée dans la Vallée des Rois près de Louxor.
+
+Q: Qui a découvert la tombe de Toutânkhamon ?
+A: Elle a été découverte par l’équipe de l’archéologue Howard Carter en 1922.
+
+Q: Pourquoi l’appelle-t-on le roi enfant ?
+A: Parce qu’il est devenu pharaon très jeune, vers huit ou neuf ans.
+
+Q: À quelle dynastie appartenait Toutânkhamon ?
+A: Il appartenait à la XVIIIe dynastie de l’Égypte ancienne.
+
+Q: Que signifie le nom Toutânkhamon ?
+A: Il signifie « image vivante d’Amon ».
+
+Q: Quel était son nom d’origine ?
+A: Son nom d’origine était Toutânkhaton.
+
+Q: Pourquoi son nom a-t-il changé ?
+A: Son nom a changé lorsque l’Égypte est revenue au culte traditionnel d’Amon.
+
+Q: Quel âge avait Toutânkhamon à sa mort ?
+A: Il avait environ 18 ou 19 ans.
+
+Q: Quels objets ont été trouvés dans sa tombe ?
+A: On y a trouvé des cercueils, des bijoux, des chars, des statues, des meubles, des armes, des vêtements, de la nourriture et le célèbre masque d’or.
+
+Q: Pourquoi la découverte de sa tombe était-elle importante ?
+A: Elle a donné aux historiens un aperçu rare de l’enterrement d’un roi égyptien et des objets préparés pour l’au-delà.
