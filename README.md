@@ -3,9 +3,8 @@
 A fresh PySide6 recreation of the supplied Readdy mobile prototype.
 
 ## Run
-
 ```powershell
-
+python main.py
 ```
 
 The app launches full-screen on the laptop and keeps the Readdy-style mobile experience centered in a portrait stage. Local image assets live in `assets/`.
