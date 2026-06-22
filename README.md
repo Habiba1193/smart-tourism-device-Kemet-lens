@@ -5,8 +5,7 @@ A fresh PySide6 recreation of the supplied Readdy mobile prototype.
 ## Run
 
 ```powershell
-cd C:\Users\farah\Documents\Codex\2026-05-21\i-will-attach-1-readdy-screenshots\kemet_lens_readdy_gui
-python main.py
+
 ```
 
 The app launches full-screen on the laptop and keeps the Readdy-style mobile experience centered in a portrait stage. Local image assets live in `assets/`.
